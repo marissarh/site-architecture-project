@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(3, 163, 223) ;
+    color:  rgb(68, 68, 68);
+
+}
+h1{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: rgb(236, 183, 34);
+}
+.location{
+    color: rgb(236, 183, 34); 
+}
+footer{
+    background-color: rgb(27, 68, 127);
+    padding: 20px;
+    color: white;
+     
+}
+.grid-item1{
+    grid-column-start: 1;
+    grid-column-end: 3;
+}

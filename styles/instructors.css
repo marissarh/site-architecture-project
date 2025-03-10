@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(3, 163, 223) ;
+    color: rgb(68, 68, 68);
+}
+h1{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: rgb(236, 183, 34);
+}
+.grid-container{
+    display: grid;
+}
+.grid-item1{
+    grid-column-start: 3;
+    grid-column-end: 6;
+}
+.grid-item2{
+    grid-column-start: 1;
+    grid-column-end:  3;
+}
+.grid-item3{
+    grid-column-start: 6;
+    grid-column-end: 9;
+}
+
+
+.location, .contact, .h3 {
+    color: rgb(236, 183, 34); 
+}
+
+footer{
+    background-color: rgb(27, 68, 127);
+    padding: 20px;
+    color: white;
+    margin-top: 40px;
+}
