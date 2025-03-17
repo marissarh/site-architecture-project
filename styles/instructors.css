@@ -8,6 +8,8 @@ h1{
 a, h2{
     text-decoration: none;
     color: rgb(236, 183, 34);
+    padding: .7rem;
+    margin: .7rem;
 }
 .grid-container{
     display: grid;
